@@ -60,7 +60,7 @@ Pré-requisitos: Laravel
 
 ```bash
 # Baixar sistema 
-Baize o sistema diretamente pelo GitHub
+Baixe o sistema diretamente pelo GitHub
 
 # Criar banco de dados
 Crie um banco de dados especifico para o projeto

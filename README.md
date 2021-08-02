@@ -18,6 +18,23 @@ Ele consiste em uma série de funcionalidades que facilitam a gestão dos recurs
 + Pedro Lucas Guerra de Lima 
 + Vinicius Barbosa 
 
+# Layout Web
+
+## Editar e remover ator
+> ![Web 1](https://github.com/matheus-lima1/COM210/blob/main/assets/WhatsApp%20Image%202021-08-02%20at%2017.41.08.jpeg)
+
+## Inserir ator
+> ![Web 2](https://github.com/matheus-lima1/COM210/blob/main/assets/WhatsApp%20Image%202021-08-02%20at%2018.46.10.jpeg)
+
+## Relatório de entrada de caixa
+> ![Web 3](https://github.com/matheus-lima1/COM210/blob/main/assets/WhatsApp%20Image%202021-08-02%20at%2017.36.47.jpeg)
+
+## Estatística de sexo
+> ![Web 4](https://github.com/matheus-lima1/COM210/blob/main/assets/WhatsApp%20Image%202021-08-02%20at%2018.45.31.jpeg)
+
+## Estatística de idade
+> ![Web 5](https://github.com/matheus-lima1/COM210/blob/main/assets/WhatsApp%20Image%202021-08-02%20at%2018.45.40.jpeg)
+
 # Tecnologias utilizadas
 
 ## Back end
